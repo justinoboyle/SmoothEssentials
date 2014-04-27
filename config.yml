@@ -1,0 +1,10 @@
+#: SmoothEssentials Configuration File
+
+# =========================
+# |        Settings       |
+# =========================
+# These are general settings for SmoothEssentials.
+auto-respawn: true
+allow-pvp: true
+allow-item-drops: true
+motd: Hi$there

@@ -1,0 +1,38 @@
+name: SmoothEssentials
+main: com.arrayprolc.se.main.Main
+version: 1.0.0
+description: >
+             Essentials, but better!
+commands:
+  heal:
+    description: Heal your health!
+  seheal:
+    description: Heal your health!
+  h:
+    description: Heal your health!
+  tp:
+    description: Teleport to a player!
+  setp:
+    description: Teleport to a player!
+  tpall:
+    description: Teleport everyone!
+  setpall:
+    description: Teleport everyone!
+  nearby:
+    description: Find nearby entities.
+  senearby:
+    description: Find nearby entities.
+  motd:
+    description: MOTD
+  semotd:
+    description: MOTD
+  online:
+    description: List of players.
+  seonline:
+    description: List of players.
+  download:
+    description: Download a plugin from the SmoothBukkit servers.
+  seplugin:
+    description: Manipulate plugins.
+  plugin:
+    description: Manipulate plugins.
